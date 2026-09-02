@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SergioFernan/Backend_Savia/issues"
   },
-  "homepage": "https://github.com/SergioFernan/Backend_Savia#readme"
+  "homepage": "https://github.com/SergioFernan/Backend_Savia#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
